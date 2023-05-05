@@ -22,7 +22,7 @@ body{
 .title{
     font-size:3rem;
     margin:6vh;
-    border: 7px dashed rgb(1,17,160);
+    border: 7px dashed rgb(73, 190, 223);
     border-radius:20px;
     padding:1vh 5vw;
 }
@@ -70,7 +70,7 @@ body{
 
 .read-more{
     color:#12b0e8;
-    cursor: pointer;
+    cursor:pointer;
 }
 
 .btn-red{
