@@ -2,7 +2,7 @@ const data = [
 	{
 		id: 1,
 		name: "Agra",
-		info: "Agra is a city in northern India, known for the iconic Taj Mahal, a stunning white marble mausoleum built by Mughal emperor Shah Jahan in memory of his beloved wife. Agra is also home to several other historic and architectural wonders, including Agra Fort and Fatehpur Sikri.",
+		info: "Agra is a city in northern India, known for the iconic Taj Mahal, a stunning white marble mausoleum built by Mughal emperor Shah Jahan in memory of his beloved wife. Agra is a city on the banks of the Yamuna river in the Indian state of Uttar Pradesh, about 230 kilometres south-east of the national capital New Delhi and 330 km west of the state capital Lucknow.",
 		image: "https://cdn.thecodehelp.in/Agra.jpeg",
 		price: "35,758",
 	},
@@ -44,7 +44,7 @@ const data = [
 	{
 		id: 7,
 		name: "Kochi",
-		info: "Kochi is a port city in the Indian state of Kerala, known for its historic connections to trade and commerce. The city is home to several stunning churches, synagogues, and mosques, as well as a rich culinary tradition that blends Indian, Portuguese, and other influences.",
+		info: "Kochi is a port city in the Indian state of Kerala, known for its historic connections to trade and commerce. Kochi (also known as Cochin) is a city in southwest India's coastal Kerala state. It has been a port since 1341, when a flood carved out its harbor and opened it to Arab, Chinese and European merchants. Sites reflecting those influences include Fort Kochi, a settlement with tiled colonial bungalows and diverse houses of worship. Cantilevered Chinese fishing nets, typical of Kochi, have been in use for centuries.",
 		image: "https://cdn.thecodehelp.in/Kochi.jpeg",
 		price: "68,595",
 	},
