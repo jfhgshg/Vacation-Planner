@@ -31,18 +31,18 @@ body{
 .cards{
     display: flex;
     /* align-items: center; */
-    justify-content: center;
-    flex-wrap: wrap;
-    max-width: 1300px;
+    justify-content:center;
+    flex-wrap:wrap;
+    max-width:1300px;
     margin:0 auto;
 }
 
 .card{
-    width:400px;
+    width: 400px;
     height:max-content;
     margin:1rem;
     padding:1rem;
-    display: flex;
+    display:flex;
     flex-direction: column;
     border-radius: 10px;
     align-items: center;
@@ -78,7 +78,7 @@ body{
     padding: 10px 80px;
     border: 1px solid #b4161b;
     cursor: pointer;
-    border-radius:10px;
+    border-radius: 10px;
     font-size: 18px;
     font-weight: bold;
     background-color: #b4161b21;
