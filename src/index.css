@@ -12,24 +12,24 @@ body{
 }
 
 .container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
 }
 
 
 .title{
-    font-size: 3rem;
+    font-size:3rem;
     margin:6vh;
     border: 7px dashed rgb(1,17,160);
-    border-radius: 20px;
+    border-radius:20px;
     padding:1vh 5vw;
 }
 
 
 .cards{
-    display: flex;
+    display:flex;
     /* align-items: center; */
     justify-content:center;
     flex-wrap:wrap;
@@ -45,7 +45,7 @@ body{
     display:flex;
     flex-direction: column;
     border-radius: 10px;
-    align-items: center;
+    align-items:center;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
